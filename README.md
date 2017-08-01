@@ -1,9 +1,9 @@
-# OppaiPractice
+﻿# OppaiPractice
 
 ## GitHub Practice
 
 ### Pull Request
-プルリク送信のために改変
+プルリク送信のために改変しました(karen)
 
 ### Merge
 
